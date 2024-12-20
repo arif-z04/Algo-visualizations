@@ -32,19 +32,19 @@ pip install matplotlib
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/algorithm-visualization.git
+   git clone https://github.com/arif-z04/Algo-visualizations.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd algorithm-visualization
+   cd algo-visualizations
    ```
 
 3. Run the Python script:
 
    ```bash
-   python bubble_sort_visual.py
+   python <algorithm_name>.py
    ```
 
 4. Watch the algorithm in action!
