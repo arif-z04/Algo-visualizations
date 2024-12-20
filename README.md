@@ -4,7 +4,7 @@ Welcome to the **Algorithm Visualization** repository! This project provides a v
 
 ## About the Project
 
-This repository is primarily focused on visualizing algorithms, starting with the Bubble Sort algorithm. The aim is to provide an engaging way to learn and teach algorithm concepts through dynamic visualizations using Python and Matplotlib.
+This repository is primarily focused on visualizing algorithms, starting with **sorting algorithms**. The aim is to provide an engaging way to learn and teach algorithm concepts through dynamic visualizations using Python and Matplotlib.
 
 ## Features
 
@@ -38,7 +38,7 @@ pip install matplotlib
 2. Navigate to the project directory:
 
    ```bash
-   cd algo-visualizations
+   cd Algo-visualizations
    ```
 
 3. Run the Python script:
@@ -57,14 +57,6 @@ The script generates an array of random integers and sorts it using the Bubble S
 - Moving elements are highlighted in **red**.
 - Stable elements remain **blue**.
 
-## Future Enhancements
-
-This repository is a work in progress, and we plan to include:
-
-- Visualizations for other algorithms (e.g., Quick Sort, Merge Sort, Heap Sort).
-- Support for more data structures and algorithms.
-- An interactive web-based UI.
-
 ## Contributing
 
 Contributions are welcome! If you have ideas or improvements, feel free to:
@@ -79,8 +71,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Inspired by the need for interactive learning tools in computer science.
-- Built with love for education and technology.
+- Inspired by my headache when I was learning algorithms.
+- Built with pain and frustration.
 
 ---
 
