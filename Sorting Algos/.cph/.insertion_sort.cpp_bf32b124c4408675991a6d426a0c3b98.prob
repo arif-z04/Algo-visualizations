@@ -1,0 +1,1 @@
+{"name":"Local: insertion_sort","url":"e:\\Algos\\Sorting Algos\\insertion_sort.cpp","tests":[{"id":1734676366011,"input":"5\n2 1 5 4 3","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algos\\Sorting Algos\\insertion_sort.cpp","group":"local","local":true}
