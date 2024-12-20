@@ -1,0 +1,1 @@
+{"name":"Local: bubble_sort","url":"e:\\Algos\\Sorting Algos\\bubble_sort.cpp","tests":[{"id":1734669998950,"input":"5\n2 5 4 1 3","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algos\\Sorting Algos\\bubble_sort.cpp","group":"local","local":true}
