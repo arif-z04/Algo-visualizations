@@ -1,0 +1,1 @@
+{"name":"Local: selection_sort","url":"e:\\Algos\\Sorting Algos\\selection_sort.cpp","tests":[{"id":1734694225684,"input":"9\n2 6 4 8 7 9 1 3 5","output":"1 2 3 4 5 6 7 8 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Algos\\Sorting Algos\\selection_sort.cpp","group":"local","local":true}
